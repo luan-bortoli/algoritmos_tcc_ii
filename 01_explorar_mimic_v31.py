@@ -35,7 +35,7 @@ ARQUIVOS_ESPERADOS = {
         "d_icd_diagnoses.csv.gz",    # dicionário CID
         "procedures_icd.csv.gz",
         "prescriptions.csv.gz",
-        "omr.csv.gz",                # novo no v3.x: outpatient med records (peso, altura, PA)
+        "omr.csv.gz",                # outpatient med records (peso, altura, PA)
     ],
     "icu": [
         "icustays.csv.gz",
